@@ -1,4 +1,4 @@
-** TenableTidBits-TSC **
+### TenableTidBits-TSC 
 
   TenableTidBits for TSC is a collection of useful code bits to perform work on TSC that is sometimes#  difficult to acheive via the GUI.
 
@@ -59,11 +59,11 @@
   We also need a secmanager role user keys as well for our asset list code.  The key files are example key files and will not
   work on your system.  You will need to generate your own admin and user keys.
 
-  ==> adm_acc.key          This is an admin access key.
-  ==> adm_sec.key          This is an admin secrete key.
-  ==> acc.key              Normal user access key.
-  ==> sec.key              Normal user secrete key.
+  --> adm_acc.key          This is an admin access key.
+  --> adm_sec.key          This is an admin secrete key.
+  --> acc.key              Normal user access key.
+  --> sec.key              Normal user secrete key.
 
-  ==> asset_lists.csv      This is an example asset list csv file.
+  --> asset_lists.csv      This is an example asset list csv file.
   
 
