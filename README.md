@@ -50,6 +50,7 @@
   This code reads the file asset_lists.csv.... this file contains:
 
        asset list name, asset list type (dyn or static), asset list tag, IP range
+       assetname, dynamic, acme, 10.200.0.0-10.200.200.0
 
   This code is not very advanced and is used to quickly create asset lists in bulk.
 
